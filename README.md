@@ -1,2 +1,3 @@
 # TareaCorta1
-*[Diagrama conceptual]
+
+* [Diagrama conceptual]
