@@ -1,4 +1,4 @@
-# TareaCorta1
+# TareaCorta
 
 SimonTec es un juego de memoria, en el cual debe aparecer cuatro cuadrantes, cada uno de diferente color y en medio debe aparecer el nivel en el que se encuentra el jugador. El patrón se genera aleatoriamente y cada vez que se supera un nivel, se agrega un nuevo color a la secuencia. Si el jugador se equivoca al intentar repetir el patrón, el juego comienza desde cero.
 
